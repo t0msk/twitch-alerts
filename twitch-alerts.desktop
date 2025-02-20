@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Twitch Alerts
+Exec=twitch-alerts-rs
+Icon=twitch-alerts
+Type=Application
+Categories=Network;WebBrowser;

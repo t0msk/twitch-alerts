@@ -1,0 +1,10 @@
+.notification {
+    background-color: #4caf50;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.notification.error {
+    background-color: #f44336;
+}

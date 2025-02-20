@@ -1,0 +1,16 @@
+{
+    "urls": [
+        {
+            "name": "Example Site",
+            "url": "https://threejs.org/examples/#webgl_clipping"
+        },
+        {
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://youtube.com"
+        }
+    ]
+}
